@@ -12,7 +12,7 @@ This is a simple SQL-based Library Management System that includes tables for bo
 ## Files
 
 - `library_create_tables.sql` – SQL script to create all necessary tables
-- `library_sample_data.sql` – SQL script with sample data entries
+- `library_insert_data.sql` – SQL script with sample data entries
 - `library_queries.sql` – Sample queries for data retrieval
 
 ## Usage
